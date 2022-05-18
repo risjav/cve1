@@ -1,0 +1,29 @@
+body {
+  /* background-color: #E8F9FD; */
+  background: rgb(244,191,191);
+  background: linear-gradient(90deg, rgba(244,191,191,1) 0%, rgba(255,217,192,1) 47%, rgba(250,240,215,1) 100%);
+  font-family: "Radikal";
+}
+hr {
+  border-style: dotted none none none;
+  border-color: #A0BCC2;
+  height: 0px;
+  border-width: 5px;
+  width: 10%
+}
+h1 {
+  color: #B689C0;
+}
+h3 {
+  color: black;
+}
+#one {
+  color: #68A7AD;
+  font-size: 40px;
+  text-align: center;
+}
+#two {
+  text-align: center;
+  font-size: 30px;
+  color: #85586F;
+}
